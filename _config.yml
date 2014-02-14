@@ -16,6 +16,8 @@ author :
   github : danarmak
   twitter : danarmak
   feedburner : disparitybit
+  # feedburner name setting as used by the-minimum theme
+  feedbaname : disparitybit
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
